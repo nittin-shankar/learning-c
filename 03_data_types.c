@@ -1,4 +1,4 @@
-// Creating variables and printing them in the console
+// Exploring data types like double and character arrays
 
 #include <stdio.h>
 #include <stdlib.h>

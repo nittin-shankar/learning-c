@@ -1,4 +1,4 @@
-// Tries printing a floating number
+// Creating function that returns something
 
 #include <stdio.h>
 #include <stdlib.h>

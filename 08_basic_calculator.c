@@ -1,4 +1,4 @@
-// Tries printing a floating number
+// Building a simple calcluator by getting user input and adding them both
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,3 +1,5 @@
+// Trying to get user input for every data type that I've known so far
+
 #include <stdio.h>
 #include <stdlib.h>
 

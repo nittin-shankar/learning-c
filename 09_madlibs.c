@@ -1,4 +1,4 @@
-// Tries printing a floating number
+// A simple madlibs game. Run this program, it's pretty cool!!
 
 #include <stdio.h>
 #include <stdlib.h>

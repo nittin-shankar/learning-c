@@ -1,4 +1,4 @@
-// Drawing a simple triangle using the printf() function
+// My "Hello, world!" program
 
 #include <stdio.h>
 #include <stdlib.h>
